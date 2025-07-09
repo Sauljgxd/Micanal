@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.lista{
+    position:absolute;
+   border-radius: 20px;
+   border: 1px;
+   border-color: aliceblue;
+   background-color: rgba(255, 166, 0, 0.351);
+    
+   right: 0 center;
+}
+
+ul li{
+    text-align: center;
+    border: 1px;
+    border-radius: 20%;
+    display: inline-block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding-top: 10px;
+    margin: 10px 10px;
+}
