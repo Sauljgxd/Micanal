@@ -1,12 +1,17 @@
+import React from 'react'; 
+import banner from './img/channels4_banner.jpg'
+import styles from './index.css';
+
+console.log(banner)
 
 function App(){
   
   return( <div ClassName ="App">
- 
- <img src={require('./img/channels4_banner.jpg')} 
- alt="" />holaaaaaaaaaaaaa
 
-  </div>)
+ <img className="banner" src={banner}/>
+holaaaaaaaaaaaaa
+  </div>
+  )
 }
 
 export default App;

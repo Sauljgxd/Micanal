@@ -24,6 +24,10 @@
   color: white;
 }
 
+.Banner{
+ background-image: url('./img/channels4_banner.jpg');
+}
+
 .App-link {
   color: #61dafb;
 }
