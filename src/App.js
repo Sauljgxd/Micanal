@@ -19,6 +19,11 @@ function App(){
         <li><Boton color='rgb(0,0,0,0)' children={"Redes"} /></li>
         <li><Boton color='rgb(0,0,0,0)' children={"Directo"} /></li>
     </ul>
+
+    <div className='Cuadro'>
+
+    </div>
+    
     </header>
   </div>
    
