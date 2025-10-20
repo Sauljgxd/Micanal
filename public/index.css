@@ -3,11 +3,3 @@
     padding: 0;
 }
 
-.Cuadro{
-    size: 50px;
-    position: absolute;
-    top: 500px;
-    height: 60%;
-    width:100%;
-    background-color: rgb(182, 48, 48);
-}
