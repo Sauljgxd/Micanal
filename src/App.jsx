@@ -1,6 +1,7 @@
 
 import banner from './img/channels4_banner.jpg';
 import Boton from './Bottons';
+import ImageSlider from './ImageSlander.jsx';
 
 console.log(banner)
 
@@ -17,6 +18,7 @@ function App(){
         <li><Boton color='rgb(0,0,0,0)' children={"Directo"} /></li>
     </ul>
     </header>
+    <div> <ImageSlider /></div>
   </div>
    
   )
